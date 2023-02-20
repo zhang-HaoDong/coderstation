@@ -1,0 +1,22 @@
+.bookContainer{
+    width: 90%;
+    margin: 0 auto;
+    /* outline: 1px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+}
+
+.numberContainer{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 10px;
+    font-weight: 200;
+}
+.noBook{
+    text-align: center;
+    font-weight: 200;
+    font-size: 36px;
+    margin: 100px 0;
+    width: 90%;
+}
